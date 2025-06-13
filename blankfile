@@ -1,0 +1,90 @@
+<div class="space-y-0.5">
+               <div class=" py-1 h-[6vh] flex items-center bg-white">
+                   <div class="flex w-full justify-between px-4">
+                       <p class="font-semibold">Food Cupboard</p>
+                       <p class="text-orange-500 font-semibold right-0">See All</p>
+                   </div>
+               </div>
+
+               <!--first box-->
+               <div class="h-[32vh] bg-white pt-0">
+                   <div class="grid grid-cols-3 mr-3 ml-3">
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                   </div>
+               </div>
+
+
+               
+                   <!--small size-->
+            <div class="space-y-0.5">
+               <div class=" py-1 h-[6vh] flex items-center bg-white">
+                   <div class="flex w-full justify-between px-4">
+                       <p class="font-semibold">Food Cupboard</p>
+                       <p class="text-orange-500 font-semibold right-0">See All</p>
+                   </div>
+               </div>
+
+               <!--first box-->
+               <div class="h-[32vh] bg-white pt-0">
+                   <div class="grid grid-cols-3 mr-3 ml-3">
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       <div class="flex flex-col items-center pt-8">
+                           <div class="bg-gray-100 w-[75px] h-[75px] rounded flex items-center
+                             justify-center">
+                               <img src="images44/1 (15).jpg" alt="" class="w-12 h-12">
+                           </div>
+                           <p>jhk kjkjk</p>
+                       </div>
+                       
+                    </div>
+               </div>
+            </div>
+
+              
